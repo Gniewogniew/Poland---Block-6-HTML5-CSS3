@@ -1,26 +1,26 @@
 /* Font-famliy start*/
 @font-face {
-	font-family: m100;
+	font-family: "m100";
 	src:url("../fonts/m100.eot");
 }
 @font-face {
-	font-family: m100;
+	font-family: "m100";
 	src:url("../fonts/m100.otf");
 }
 @font-face {
-	font-family: m300;
+	font-family: "m300";
 	src:url("../fonts/m300.eot");
 }
 @font-face {
-	font-family: m300;
+	font-family:"m300";
 	src:url("../fonts/m300.otf");
 }
 @font-face {
-	font-family: m500;
+	font-family: "m500";
 	src:url("../fonts/m500.eot");
 }
 @font-face {
-	font-family: m500;
+	font-family: "m500";
 	src:url("../fonts/m500.otf");
 }
 /* Custom CSS start*/
@@ -43,7 +43,7 @@
 	text-align: center;
 }
 .text-white {
-	color:white;
+	color:"white";
 }
 .fix{
 	overflow: hidden;
@@ -56,7 +56,7 @@
 }
 .contact {
 	font-size: 12px;
-	font-family: m300;
+	font-family: "m300";
 }
 .phone {
 	margin-right: 20px; 
@@ -199,9 +199,9 @@
 }
 .slider_text > ul > li > a {
 	display: block;
-	color: white;
+	color: "white";
 	text-decoration: none;
-	font-family: "Oswald", sans serif;
+	font-family: "Oswald", "sans serif";
 	font-size: 70px;
 	font-weight: bold; 
 }
@@ -330,7 +330,7 @@
 	left: 450px;
 	top:-30px;
 	color: #463f3a;
-	background: white;
+	background: "white";
 	padding: 5px 15px;
 }
 .heading_two > img {
@@ -360,7 +360,7 @@
 }
 .two > p > a {
 	text-decoration: none;
-	color: white;
+	color: "white";
 	background-color: #463f3a;
 	display: block;
 	padding: 6px 20px;
@@ -401,7 +401,7 @@
 }
 .three > p > a {
 	text-decoration: none;
-	color: white;
+	color: "white";
 	background-color: #463f3a;
 	display: block;
 	padding: 6px 20px;
@@ -563,5 +563,5 @@
 .copyright > p > a {
 	color:#f55856;
 	text-decoration:none;
-	font-family: m500;
+	font-family: "m500";
 }	
