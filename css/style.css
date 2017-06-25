@@ -43,7 +43,7 @@
 	text-align: center;
 }
 .text-white {
-	color:"white";
+	color:white;
 }
 .fix{
 	overflow: hidden;
@@ -199,7 +199,7 @@
 }
 .slider_text > ul > li > a {
 	display: block;
-	color: "white";
+	color: white;
 	text-decoration: none;
 	font-family: "Oswald", "sans serif";
 	font-size: 70px;
@@ -330,7 +330,7 @@
 	left: 450px;
 	top:-30px;
 	color: #463f3a;
-	background: "white";
+	background: white;
 	padding: 5px 15px;
 }
 .heading_two > img {
@@ -360,7 +360,7 @@
 }
 .two > p > a {
 	text-decoration: none;
-	color: "white";
+	color: white;
 	background-color: #463f3a;
 	display: block;
 	padding: 6px 20px;
@@ -401,7 +401,7 @@
 }
 .three > p > a {
 	text-decoration: none;
-	color: "white";
+	color: white;
 	background-color: #463f3a;
 	display: block;
 	padding: 6px 20px;
