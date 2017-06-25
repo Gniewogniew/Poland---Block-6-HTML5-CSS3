@@ -23,13 +23,6 @@
 	font-family: "m500";
 	src:url("../fonts/m500.otf");
 }
-/* Style adjustments for high resolution devices */
-@media print,
-       (-o-min-device-pixel-ratio: 5/4),
-       (-webkit-min-device-pixel-ratio: 1.25),
-       (min-resolution: 1.25dppx),
-       (min-resolution: 120dpi) {
- 
 /* Custom CSS start*/
 .container-fluid {
 	width: 100%;
