@@ -514,6 +514,9 @@
 	text-decoration: none;
 	font-family: "m500";
 }
+.f_navigation > ul > li > a::after{
+	content:"/"
+}
 .f_navigation ul > li > a:hover {
 	color: #eee;
 }
