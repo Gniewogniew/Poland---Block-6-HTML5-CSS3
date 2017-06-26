@@ -517,6 +517,8 @@
 .f_navigation ul > li > a::after {
   content:"/";
   color:#f55856;
+  padding-left:30px;
+  padding-right:30px;
 }
 .f_navigation ul > li > a:hover {
 	color: #eee;
