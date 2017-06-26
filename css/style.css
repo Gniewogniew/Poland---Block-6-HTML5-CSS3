@@ -530,6 +530,7 @@
 .top_icon > img {
 	background:rgba(0,0,0,0.2);
 	padding: 15px 20px 15px;
+	cursor:pointer;
 }
 /* Fotter Bottom start*/
 .footer_bottom_wraper {
