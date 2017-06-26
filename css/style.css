@@ -516,6 +516,7 @@
 }
 .f_navigation > ul > li > a::after{
 	content:"/"
+	color:#f55856;
 }
 .f_navigation ul > li > a:hover {
 	color: #eee;
