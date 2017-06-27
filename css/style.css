@@ -231,11 +231,7 @@ padding-right:25px;
 	text-align: center;
 }
 .service:last-child {
-	background:#ffcc99;
-	padding: 20px;
 	margin-right: 0px; 
-	width: 320px;
-	text-align: center;
 }
 .service > h1 {
 	color: #463f3a;
