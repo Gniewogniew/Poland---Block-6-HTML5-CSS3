@@ -148,14 +148,14 @@
 .navigation ul > li > a:hover {
 	color: #666;
 }
-.navigation ul > li:after {
+.navigation li:after {
 content:"/";
 font-weight: bold;
 color:#f55856;
 padding-left:40px;
 padding-right:25px;
 }
-.navigation ul > li:last-child:after{
+.navigation li:last-child:after{
   content:""
 }
 .cart {
@@ -518,14 +518,14 @@ padding-right:25px;
 	text-decoration: none;
 	font-family: "m500";
 }
-.f_navigation ul > li:after {
+.f_navigation ul li:after {
 content:"/";
 font-weight: bold;
 color:#f55856;
 padding-left:40px;
 padding-right:25px;
 }
-.f_navigation ul > li:last-child:after{
+.f_navigation li:last-child:after{
   content:""
 }
 .f_navigation ul > li > a:hover {
@@ -534,7 +534,6 @@ padding-right:25px;
 .f_navigation > p {
 	font-size: 14px;
 	text-align: center;
-
 }
 .top_icon{
 }
