@@ -150,6 +150,7 @@
 }
 .navigation ul > li:after {
 content:"/";
+font-weight: bold;
 color:#f55856;
 padding-left:40px;
 padding-right:25px;
@@ -519,6 +520,7 @@ padding-right:25px;
 }
 .f_navigation ul > li:after {
 content:"/";
+font-weight: bold;
 color:#f55856;
 padding-left:40px;
 padding-right:25px;
